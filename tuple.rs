@@ -3,6 +3,7 @@ fn main() {
     print(a);
 }
 
+// print tuple
 fn print(x: (i32, bool, f64)) {
     let (a, y, z) = x;
     println!("{} {} {}", a, y, z);
