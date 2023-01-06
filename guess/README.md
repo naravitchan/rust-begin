@@ -8,4 +8,10 @@ cargo build
 cargo check (compile only)
 
 cargo run
+
+cargo update
 ```
+
+### dependencies
+
+https://crates.io/
