@@ -18,7 +18,7 @@ fn main() {
         } else {
             println!("Try Again");
             if guess > secret {
-                println!("You have guessed a higher no")
+                println!("You have guessed a higher no");
             } else {
                 println!("Value is smaller");
             }
