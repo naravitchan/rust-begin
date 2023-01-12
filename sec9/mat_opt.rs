@@ -7,7 +7,8 @@ fn main() {
 }
 fn plus_one(x:Option<i32>)-> Option<i32> {
 	match x {
-		None=>None,
+		// None=>None, // pattern `None` not covered
 		Some(i)=>Some(i+1),
+		_ => None,
 	}
 }
