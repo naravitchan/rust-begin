@@ -16,6 +16,3 @@ fn main() {
 fn route(ip:IpAddrKind){
 	println!("{:?}",ip);
 }
-
-
-
