@@ -1,1 +1,1 @@
-# rust-ex
+# the-rust-programming-language-for-beginners
