@@ -18,3 +18,13 @@ fn largest<T: PartialOrd + Copy>(list: &[T]) -> T {
     }
     largest
 }
+
+fn large<T: Number>(list: &[T]) -> T {
+    let mut largest = list[0];
+    for &n in list {
+        if n > largest {
+            largest = n;
+        }
+    }
+    largest
+}
