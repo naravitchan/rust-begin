@@ -35,3 +35,11 @@ cargo build
 cargo run
 
 cargo run --example main (sec14)
+
+# Cargo Test
+
+cargo test it_work
+
+cargo test -- --test-threads=1
+
+cargo test -- --nocapture

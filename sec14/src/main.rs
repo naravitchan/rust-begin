@@ -22,6 +22,7 @@ mod tests {
     // }
 
     #[test]
+    // #[ignore]
     fn it_add_two() {
         assert_eq!(add_two(2), 4)
     }
