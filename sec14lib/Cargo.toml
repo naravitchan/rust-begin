@@ -1,5 +1,5 @@
 [package]
-name = "sec14"
+name = "sec14lib"
 version = "0.1.0"
 edition = "2021"
 

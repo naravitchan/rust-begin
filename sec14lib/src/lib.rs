@@ -1,6 +1,7 @@
 mod another_test;
 mod panic;
-fn add_two(a: i32) -> i32 {
+
+pub fn add_two(a: i32) -> i32 {
     a + 2
 }
 
@@ -37,7 +38,4 @@ mod tests {
             result
         )
     }
-}
-fn main() {
-    println!("Hello, world!");
 }
