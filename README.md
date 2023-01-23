@@ -27,3 +27,11 @@ Sec 13: Generic Types, Traits, Lifetimes
 Sec 14: Testing
 
 Sec 15: IO Project
+
+# Cargo CMD
+
+cargo build
+
+cargo run
+
+cargo run --example main (sec14)
