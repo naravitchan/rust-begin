@@ -34,7 +34,9 @@ cargo build
 
 cargo run
 
-cargo run --example main (sec14)
+cargo run --example main (sec 14)
+
+cargo run > output.txt (sec 15)
 
 # Cargo Test
 

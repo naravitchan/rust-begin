@@ -1,0 +1,8 @@
+Searching for p
+In File poem.txt
+A short poem may be a stylistic choice or it may be that you 
+way, they differ stylistically from a long poem in that there 
+words people tend to spend more time on choosing a word that 
+fits the subject to perfection. Because of this meticulous 
+attitude, writing a short poem is often more tedious than 
+writing a long poem
