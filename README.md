@@ -28,6 +28,14 @@ Sec 14: Testing
 
 Sec 15: IO Project
 
+Sec 16: Iterators & Closures
+
+Sec 17: Cargo & Crates.io
+
+Sec 18: Smart Pointer
+
+Sec 19: Fearless Concurrency
+
 # Cargo CMD
 
 cargo build
