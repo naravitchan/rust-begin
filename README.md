@@ -46,6 +46,10 @@ cargo run --example main (sec 14)
 
 cargo run > output.txt (sec 15)
 
+cargo doc (sec17)
+
+cargo doc --open
+
 # Cargo Test
 
 cargo test it_work
