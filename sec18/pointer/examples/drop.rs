@@ -8,7 +8,7 @@ impl Drop for CustomSmartPointer {
     }
 }
 
-// cargo run --example drop
+// cargo run --example drop1
 fn main() {
     println!("Hello, world! Drop");
 
