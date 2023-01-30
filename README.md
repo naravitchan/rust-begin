@@ -26,7 +26,7 @@ Sec 13: Generic Types, Traits, Lifetimes
 
 Sec 14: Testing
 
-Sec 15: IO Project
+Sec 15: IO Project (minigrep)
 
 Sec 16: Iterators & Closures
 
@@ -35,6 +35,8 @@ Sec 17: Cargo & Crates.io
 Sec 18: Smart Pointer
 
 Sec 19: Fearless Concurrency
+
+Sec 20: Patterns and Matching
 
 # Cargo CMD
 
